@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhiguochi.github.io/index/"/>
-  <updated>2020-04-14T13:31:26.597Z</updated>
+  <updated>2020-04-15T03:02:20.186Z</updated>
   <id>http://zhiguochi.github.io/index/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用经济学思维做产品</title>
+    <link href="http://zhiguochi.github.io/index/2020/04/15/2020-04-15-01/"/>
+    <id>http://zhiguochi.github.io/index/2020/04/15/2020-04-15-01/</id>
+    <published>2020-04-15T02:46:42.000Z</published>
+    <updated>2020-04-15T03:02:20.186Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>经济学要解决的终极问题：“人类怎样才能更快乐，更幸福”。与产品经理要解决的终极问题：“提高人类的效率和幸福感”是一样一样的。</li><li>所谓边际成本，就是指的我还需要投入多少才能获得预期的回报。</li><li>用经济学思维来思考版本迭代时，一定不会随意添加低满意度功能到产品中，因为将来砍掉它和优化它都要付出极大的成本；在产品早期，<strong>要确保每一个功能都是一刀见血的</strong>，过多的可有可无的功能只会让你将来付出极大的代价。</li><li><strong>创造价值才是产品经理的核心工作</strong>，充分利用高度的社会分工合作创造更多的价值，同时降低创造价值的成本（例如：第三方工具、开源代码、或者现成的Saas系统，只要能解决核心问题，都是好方法）。</li><li>决定价格的是的供需关系，一定要从市场需求层面来思考价格，思考两个层面<strong>是否足够稀缺，以及用户是否需要</strong>。<br>摘选: <a href="http://www.woshipm.com/pmd/3674194.html" target="_blank" rel="noopener">《人人都是产品经理》-用经济学思维做产品</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;经济学要解决的终极问题：“人类怎样才能更快乐，更幸福”。与产品经理要解决的终极问题：“提高人类的效率和幸福感”是一样一样的。&lt;/li&gt;
+&lt;li&gt;所谓边际成本，就是指的我还需要投入多少才能获得预期的回报。&lt;/li&gt;
+&lt;li&gt;用经济学思维来思考版本迭代时，一定不会随意添加低满意度功能到产品中，因为将来砍掉它和优化它都要付出极大的成本；在产品早期，&lt;strong&gt;要确保每一个功能都是一刀见血的&lt;/strong&gt;，过多的可有可无的功能只会让你将来付出极大的代价。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创造价值才是产品经理的核心工作&lt;/strong&gt;，充分利用高度的社会分工合作创造更多的价值，同时降低创造价值的成本（例如：第三方工具、开源代码、或者现成的Saas系统，只要能解决核心问题，都是好方法）。&lt;/li&gt;
+&lt;li&gt;决定价格的是的供需关系，一定要从市场需求层面来思考价格，思考两个层面&lt;strong&gt;是否足够稀缺，以及用户是否需要&lt;/strong&gt;。&lt;br&gt;摘选: &lt;a href=&quot;http://www.woshipm.com/pmd/3674194.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《人人都是产品经理》-用经济学思维做产品&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+    </summary>
+    
+    
+      <category term="产品设计" scheme="http://zhiguochi.github.io/index/categories/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="阅读" scheme="http://zhiguochi.github.io/index/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>《失控》 凯文·凯利</title>
