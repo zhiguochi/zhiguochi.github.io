@@ -200,6 +200,32 @@ var _hmt = _hmt || [];
 
 -->
 	
+		<section id="comments" class="comments">
+			<style>
+			.comments{margin:30px;padding:10px;background:rgb(0, 0, 0)}
+			@media screen and (max-width:800px){.comments{margin:auto;padding:10px;background:#000}}
+			</style>
+			<div id="vcomment" class="comment"></div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    var notify = 'false' == true ? true : false;
+    var verify = 'false' == true ? true : false;
+    new Valine({
+        av: AV,
+        el: '#vcomment',
+        notify: notify,
+        app_id: "rwio1lasudeylGjzQIkveAqw-gzGzoHsz",
+        app_key: "E9wc0aAJXxn2MGCWtCbPGtRU",
+        placeholder: "提交评论时留下邮箱收到回复后将自动通知",
+        avatar:"",
+        visitor: "true",
+    });
+</script>
+
+		</section>
+	
 	</div> <!-- col-md-9/col-md-12 -->
 
 
